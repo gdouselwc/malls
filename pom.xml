@@ -7,6 +7,10 @@
     <groupId>com.lwc</groupId>
     <artifactId>malls</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>mall-manage-web</module>
+        <module>mall-common</module>
+    </modules>
 
     <packaging>pom</packaging>
 

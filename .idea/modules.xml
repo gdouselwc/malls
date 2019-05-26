@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common.iml" filepath="$PROJECT_DIR$/mall-common/mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common-dao/mall-common-dao.iml" filepath="$PROJECT_DIR$/mall-common/mall-common-dao/mall-common-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common-model/mall-common-model.iml" filepath="$PROJECT_DIR$/mall-common/mall-common-model/mall-common-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common-utils/mall-common-utils.iml" filepath="$PROJECT_DIR$/mall-common/mall-common-utils/mall-common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manage-web/mall-manage-web.iml" filepath="$PROJECT_DIR$/mall-manage-web/mall-manage-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/malls.iml" filepath="$PROJECT_DIR$/malls.iml" />
     </modules>
   </component>
